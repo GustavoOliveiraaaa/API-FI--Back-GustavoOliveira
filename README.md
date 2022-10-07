@@ -1,7 +1,1 @@
-# Awesome Project Build with TypeORM
-
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `data-source.ts` file
-3. Run `npm start` command
+[{"id":1,"Nome":"Feijão Topeira","Tipo":"Grãos","Peso":27,"Quantidade":30,"Preco":10},{"id":2,"Nome":"Arroz","Tipo":"Grãos","Peso":5,"Quantidade":100,"Preco":20},{"id":3,"Nome":"Macarrão","Tipo":"Massas","Peso":5,"Quantidade":50,"Preco":7},{"id":4,"Nome":"Água","Tipo":"Bebidas","Peso":2,"Quantidade":100,"Preco":10},{"id":5,"Nome":"Feijão Topeira","Tipo":"Grãos","Peso":27,"Quantidade":30,"Preco":10},{"id":6,"Nome":"Arroz","Tipo":"Grãos","Peso":5,"Quantidade":100,"Preco":20},{"id":7,"Nome":"Macarrão","Tipo":"Massas","Peso":5,"Quantidade":50,"Preco":7},{"id":8,"Nome":"Água","Tipo":"Bebidas","Peso":2,"Quantidade":100,"Preco":10},{"id":9,"Nome":"Feijão Topeira","Tipo":"Grãos","Peso":27,"Quantidade":30,"Preco":10},{"id":10,"Nome":"Arroz","Tipo":"Grãos","Peso":5,"Quantidade":100,"Preco":20},{"id":11,"Nome":"Macarrão","Tipo":"Massas","Peso":5,"Quantidade":50,"Preco":7},{"id":12,"Nome":"Água","Tipo":"Bebidas","Peso":2,"Quantidade":100,"Preco":10},{"id":14,"Nome":"Feijão Topeira","Tipo":"Grãos","Peso":27,"Quantidade":30,"Preco":10},{"id":15,"Nome":"Arroz","Tipo":"Grãos","Peso":5,"Quantidade":100,"Preco":20},{"id":16,"Nome":"Macarrão","Tipo":"Massas","Peso":5,"Quantidade":50,"Preco":7},{"id":17,"Nome":"Água","Tipo":"Bebidas","Peso":2,"Quantidade":100,"Preco":10},{"id":18,"Nome":"Feijão Topeira","Tipo":"Grãos","Peso":27,"Quantidade":30,"Preco":10},{"id":19,"Nome":"Arroz","Tipo":"Grãos","Peso":5,"Quantidade":100,"Preco":20},{"id":20,"Nome":"Macarrão","Tipo":"Massas","Peso":5,"Quantidade":50,"Preco":7},{"id":21,"Nome":"Água","Tipo":"Bebidas","Peso":2,"Quantidade":100,"Prec
